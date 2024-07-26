@@ -1,0 +1,4 @@
+flask==2.2.2
+flask-babel==2.1.3
+gunicorn==21.2.0
+Werkzeug==2.2.2
